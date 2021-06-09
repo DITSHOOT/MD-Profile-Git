@@ -13,6 +13,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8a0nfcth8ccjxa3d7oeyzr0o8&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=8a0nfcth8ccjxa3d7oeyzr0o8&redirect=true)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ea1a991d-35e5-4607-af5b-47e82c924b94/deploy-status)](https://app.netlify.com/sites/objective-haibt-714e04/deploys)
+
 ### Mes réseaux :
 
 [<img align="left" alt="DITSHOOT| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
