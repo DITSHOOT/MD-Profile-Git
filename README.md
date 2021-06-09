@@ -4,7 +4,7 @@
 
 ## Développement Web, BOT & Gestion de projet
 
-- 💻 Je suis actuellement entrain d'apprendre toutes sortes de langages ! 
+- 👦🏻 Je suis actuellement entrain d'apprendre toutes sortes de langages ! 
 - 📧 E-mail : dimitri.chassignol.contact@gmail.com
 
 ### Mes réseaux :
