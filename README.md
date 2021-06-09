@@ -1,11 +1,13 @@
 ### Salut, je m'appelle [Dimitri Chassignol][website] 👋
 
-<strong>Dimitri Chassignol</strong>, étudiant autodidacte passionné par l'informatique et ses technologies de créations.
+<strong>Dimitri Chassignol</strong>, 16 ans et étudiant autodidacte passionné par l'informatique et ses technologies de créations.
 
 ## Développement Web, BOT & Gestion de projet
 
-- 👦🏻 Je suis actuellement entrain d'apprendre toutes sortes de langages ! 
-- 📧 E-mail : dimitri.chassignol.contact@gmail.com
+- 👨‍💻 Je suis actuellement entrain d'apprendre toutes sortes de langages ! 
+- 📫 E-mail : dimitri.chassignol.contact@gmail.com
+- 🖥 Discord : Dimitri#0008
+- 🌐 Udemy : https://www.udemy.com/user/dimitri-chassignol/
 
 ### Mes réseaux :
 
