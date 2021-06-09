@@ -35,7 +35,7 @@
   <summary>😉 Mes activités récentes</summary>
   
 <!--START_SECTION:activity-->
-  1. 📤 Nouveau répertoire publié le <strong>09/06/2021 à 10h45</strong> : [Développement Web BOT DISCORD](https://github.com/DITSHOOT/Wendy-BOT)
+  1. 📤 Nouveau répertoire publié le <strong>09/06/2021 à 11h18</strong> : [Développement - Page d'accueil](https://github.com/DITSHOOT/DITSHOOT)
 <!--END_SECTION:activity-->
 
 [website]: https://dimitri-chassignol.fr
