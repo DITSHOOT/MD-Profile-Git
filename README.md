@@ -9,6 +9,10 @@
 - 📫 E-mail : dimitri.chassignol.contact@gmail.com
 - 🌐 Udemy : https://www.udemy.com/user/dimitri-chassignol/
 
+### Apple Music Playlist Coding 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DITSHOOT pple Music Playlist Coding " width="350" />](https://music.apple.com/fr/playlist/c-h-i-l-l-stream/pl.u-MDAWkg6TGNkdNY)
+
 ### Mes réseaux :
 
 [<img align="left" alt="DITSHOOT| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
