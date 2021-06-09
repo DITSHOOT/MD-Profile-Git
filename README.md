@@ -2,7 +2,7 @@
 
 <strong>Dimitri Chassignol</strong>, 16 ans et étudiant autodidacte passionné par l'informatique et ses technologies de créations.
 
-## Développement Web, BOT & Gestion de projet
+## Développement Web, BOT & Création de projets
 
 - 👨‍💻 Je suis actuellement entrain d'apprendre toutes sortes de langages !
 - 🖥 Discord : Dimitri#0008 
