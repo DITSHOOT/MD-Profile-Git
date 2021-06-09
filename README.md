@@ -1,6 +1,6 @@
 ### Salut, je m'appelle [Dimitri Chassignol][website] ! 👋
 
-<strong>Dimitri Chassignol</strong>, 16 ans et étudiant autodidacte passionné par l'informatique et ses technologies de créations.
+<strong>Dimitri Chassignol</strong>, 16 ans et étudiant autodidacte passionné par l'informatique et de ses technologies de créations incroyables.
 
 ## Développement Web, BOT & Création de projets
 
