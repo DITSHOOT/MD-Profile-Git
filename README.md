@@ -39,6 +39,7 @@
   <summary>😉 Mes activités récentes</summary>
   
 <!--START_SECTION:activity-->
+  2. 🌐 Nouveau répertoire publié le <strong>14/03/2023 à 11h18</strong> : [WebSite - dimitrichassignol.fr ](https://dimitrichassignol.fr)
   1. 📤 Nouveau répertoire publié le <strong>09/06/2021 à 11h18</strong> : [Développement - Page d'accueil](https://github.com/DITSHOOT/DITSHOOT)
 <!--END_SECTION:activity-->
 
