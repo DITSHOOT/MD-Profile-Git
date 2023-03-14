@@ -5,9 +5,9 @@
 ## Développement Web, BOT & Création de projets
 
 - 👨‍💻 Je suis actuellement entrain d'apprendre toutes sortes de langages !
-- 🖥 Discord : Dimitri#0008 
-- 📫 E-mail : dimitri.chassignol.contact@gmail.com
-- 🌐 Udemy : https://www.udemy.com/user/dimitri-chassignol/
+- 🖥 Discord : Dimitri Chassignol#0008 
+- 📫 E-mail : contact@dimitrichassignol.fr
+- 🌐 Linkedin : www.linkedin.com/in/dimitrichassignol
 
 ### Spotify Playlist Coding 🎧
 
