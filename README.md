@@ -1,17 +1,17 @@
 ### Salut, je m'appelle [Dimitri Chassignol][website] ! 👋
 
-<strong>Dimitri Chassignol</strong>, 19 ans et étudiant autodidacte passionné par l'informatique et de ses technologies de créations incroyables.
+<strong>Dimitri Chassignol</strong>, 19 ans et étudiant autodidacte passionné par l'informatique et ses technologies de création incroyables.
 
-## Développement Web, BOT & Création de projets
+## Développement Web, Bot & Création de projets
 
-- 👨‍💻 Je suis actuellement entrain d'apprendre toutes sortes de langages !
-- 🖥 Discord : Dimitri Chassignol#0008 
+- 👨‍💻 Je suis actuellement en train d'apprendre divers langages !
+- 🖥 Discord : Dimitri Chassignol / ditshoot 
 - 📫 E-mail : contact@dimitrichassignol.fr
 - 🌐 Linkedin : www.linkedin.com/in/dimitrichassignol
 
-### Spotify Playlist Coding 🎧
+### YouTube Music Playlist Coding 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8a0nfcth8ccjxa3d7oeyzr0o8&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=8a0nfcth8ccjxa3d7oeyzr0o8&redirect=true)
+[![youtube-music-profile](https://img.shields.io/badge/YouTube_Music-DITSHOOT-red?style=for-the-badge&logo=youtube-music)](https://music.youtube.com/playlist?list=PLtSHE1PVnfsWQe4AbBZh5k04YGPSfXSW0&si=4_FrKz1l2oM3yiU-)
 
 ### Mes réseaux sociaux:
 
@@ -21,7 +21,7 @@
 
 <br />
 
-### Mon environnement du quotidien:
+### Mon environnement quotidien:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -41,6 +41,7 @@
 <!--START_SECTION:activity-->
   2. 🌐 Nouveau répertoire publié le <strong>14/03/2023 à 11h18</strong> : [WebSite - dimitrichassignol.fr ](https://dimitrichassignol.fr)
   1. 📤 Nouveau répertoire publié le <strong>09/06/2021 à 11h18</strong> : [Développement - Page d'accueil](https://github.com/DITSHOOT/DITSHOOT)
+  1. 📤 Nouveau répertoire publié le <strong>09/01/2024 à 19h14</strong> : [CV - Portfolio](https://github.com/DITSHOOT/1SIOGrp2-CV-)
 <!--END_SECTION:activity-->
 
 [website]: https://dimitri-chassignol.fr
