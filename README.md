@@ -39,6 +39,7 @@
   <summary>😉 Mes activités récentes</summary>
   
 <!--START_SECTION:activity-->
+  2. 🌐 Nouveau répertoire publié le <strong>28/06/2024 à 17h00</strong> : [Documentation IT - babouins.fr ]([https://dimitrichassignol.fr](https://github.com/BABOUINS-PROJECT))
   2. 🌐 Nouveau répertoire publié le <strong>14/03/2023 à 11h18</strong> : [WebSite - dimitrichassignol.fr ](https://dimitrichassignol.fr)
   1. 📤 Nouveau répertoire publié le <strong>09/06/2021 à 11h18</strong> : [Développement - Page d'accueil](https://github.com/DITSHOOT/DITSHOOT)
   1. 📤 Nouveau répertoire publié le <strong>09/01/2024 à 19h14</strong> : [CV - Portfolio](https://github.com/DITSHOOT/1SIOGrp2-CV-)
